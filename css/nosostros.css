@@ -1,0 +1,11 @@
+.nuestrahistoria{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.nuestrahistoria h2{
+    text-align: center;
+    padding-top: 50px;
+}
+.nuestrahistoria p {
+    margin: 50px;
+    text-align: center;
+}

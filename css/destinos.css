@@ -1,0 +1,31 @@
+
+        .carousel {
+            background-color: rgba(0, 0, 0, 0.685);
+        }
+
+        /* Estilos para el texto en el carrusel */
+        .carousel-caption {
+            background-color: rgba(0, 0, 0, 0.685);
+            right: 0;
+            left: auto;
+            text-align: left;
+            padding: 20px;
+        }
+
+        .carousel-item img {
+            border-radius: 10px; /* Ajusta el valor según desees */
+        }
+
+        .container.mt-5{
+            background-color: rgba(0, 0, 0, 0.685);
+            border-radius: 10px;
+        }
+        .container.mt-5 h1{
+            text-align: center;
+            font-weight: 500;
+            padding: 10px;
+        }
+        .container.mt-5 p{
+            text-align: center;
+            font-weight: 300;
+        }

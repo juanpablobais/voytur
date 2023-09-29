@@ -1,0 +1,21 @@
+
+/* Estilos para el jumbotron */
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.7); /* Fondo semitransparente */
+    color: white;
+    text-align: center; /* Centra el texto horizontalmente */
+    padding: 100px 0;
+    width: 100%;
+    max-width: 800px; /* Establece un ancho máximo para el jumbotron */
+    position: absolute;
+    top: 50%; /* Lleva el jumbotron a la mitad superior de la pantalla */
+    left: 50%; /* Lleva el jumbotron al centro horizontal de la pantalla */
+    transform: translate(-50%, -50%); /* Centra vertical y horizontalmente */
+    border-radius: 10px;
+}
+
+
+/* Estilos para el texto superpuesto */
+.jumbotron h1 {
+    font-size: 36px;
+}

@@ -1,0 +1,36 @@
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.692); /* Fondo semitransparente */
+    color: white;
+     /* Centra el texto horizontalmente */
+    padding: 100px 0;
+    width: 100%;
+    max-width: 800px; /* Establece un ancho máximo para el jumbotron */
+    position: absolute;
+    top: 50%; /* Lleva el jumbotron a la mitad superior de la pantalla */
+    left: 50%; /* Lleva el jumbotron al centro horizontal de la pantalla */
+    transform: translate(-50%, -50%); /* Centra vertical y horizontalmente */
+}
+
+
+/* Estilos para el texto superpuesto */
+.jumbotron h1 {
+    font-size: 36px;
+    text-align: center;
+}
+
+.custom-card-footer {
+    background-color: transparent;
+    padding: 8px px; /* Ajusta el espaciado según tus preferencias */
+    text-align: center;
+    }
+
+.btn.btn-primary {
+        background-color: rgb(255, 136, 0); /* Cambia el color de fondo a azul */
+        color: rgb(243, 243, 243); /* Cambia el color del texto a blanco */
+        border-color: rgb(255, 136, 0);
+    }
+
+.btn.btn-primary:hover{
+    color: rgb(12, 12, 12);
+    border-color: rgb(255, 0, 0);
+}
